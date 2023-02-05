@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+.boder{
+    border: 4px rgb(209, 20, 209) solid;
+    background-color: rgb(205, 215, 129);
+    margin-top: 5px;
+}
+table, th, td {
+    border: 4px rgb(22, 43, 229) solid;
+  }
+#wrapper{
+    margin-top: 30px;
+    margin-left: 20px;
+}
